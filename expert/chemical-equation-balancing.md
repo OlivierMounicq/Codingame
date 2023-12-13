@@ -326,3 +326,35 @@ namespace ChemicalEquation
     }
 }
 ```
+
+
+The goal is to solve an equation like 
+
+```
+αS + βHNO3 -> γH2SO4 + δNO2 + ηH2O
+```
+
+Where the unknows are α, β, γ, δ and η.
+We have to determine for each atom a vector. To equilibrate the equation, the term on the ight hand side will be negative.
+
+| Atom | Vector |
+|-------|----------|
+| S     | (1, 0, 1, 0, 0) |
+| H     | (0, 1, -2, 0, 2) |
+| N     | (0, 1, 0, -1, 0) |
+| O     | (0, 3, -4, -2, -1) |
+
+And for each atom : 
+
+                   (α)
+                   (β)
+                   (γ)
+                   (δ)
+(1, 0, 1, 0, 0) *  (η) = 0
+
+
+
+
+
+
+

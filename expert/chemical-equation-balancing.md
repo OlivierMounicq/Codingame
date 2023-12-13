@@ -346,12 +346,13 @@ We have to determine for each atom a vector. To equilibrate the equation, the te
 
 And for each atom : 
 
+```
                    (α)
                    (β)
                    (γ)
                    (δ)
 (1, 0, 1, 0, 0) *  (η) = 0
-
+```
 
 
 

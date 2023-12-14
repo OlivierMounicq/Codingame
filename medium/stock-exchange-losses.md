@@ -1,5 +1,16 @@
 https://www.codingame.com/training/medium/stock-exchange-losses
 
+![286063176-1476345b-db17-408f-8636-473061afb38e](https://github.com/OlivierMounicq/Codingame/assets/26850726/3564f6f8-467b-4e7d-abd8-78be19df4601)
+
+
+![286063260-8d01fe28-e29e-44e5-b1b2-3d51194edb5e](https://github.com/OlivierMounicq/Codingame/assets/26850726/860d68eb-c752-4bfc-90b4-81b2d920b723)
+
+
+![286063387-8902420a-6288-45ff-8fbe-2f8e7d683d46](https://github.com/OlivierMounicq/Codingame/assets/26850726/9d890f4f-326b-4c0a-9428-39efe16712e9)
+
+![286063868-1d513f0d-ab56-47e7-86a9-6a0550b7283a](https://github.com/OlivierMounicq/Codingame/assets/26850726/9ed05101-7410-45a8-968c-26827d0f3bc9)
+
+
 ```cs
 using System;
 using System.Linq;

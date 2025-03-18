@@ -75,3 +75,12 @@ class Solution
     }
 }
 ```
+
+
+First, we try to find the global minimum value and then the maximum value before the global minimum.  
+We compute the lost and we put into a list  
+Then we restart to find a global maximum in a sub data set. This sub data set start from the next price just after the global minimum price  
+  
+![image](https://github.com/user-attachments/assets/96a990eb-9d3e-4734-8a33-04d3627d6003)
+
+

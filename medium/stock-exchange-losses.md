@@ -78,9 +78,14 @@ class Solution
 
 
 First, we try to find the global minimum value and then the maximum value before the global minimum.  
-We compute the lost and we put into a list  
-Then we restart to find a global maximum in a sub data set. This sub data set start from the next price just after the global minimum price  
-  
-![image](https://github.com/user-attachments/assets/96a990eb-9d3e-4734-8a33-04d3627d6003)
+We compute the lost and we put into a list.  
 
+![wortloss-1](https://github.com/user-attachments/assets/d55861b6-8f35-4951-90a3-c3e3d9e368fc)
 
+Then when when reduce the frame to get the next global minima in this new frame:  
+
+![wortloss-2](https://github.com/user-attachments/assets/33a62874-c2ac-4147-9aca-0211e73c6599)
+
+And when repeat the workflow by reducing a second time and we have to find the global minima in this new interval:  
+
+![wortloss-3](https://github.com/user-attachments/assets/1c409903-12fc-4700-a080-fc5f678aca93)
